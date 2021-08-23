@@ -2,38 +2,79 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Patch clamp allows the study of: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ion channels in cells",
+        "b": "Nature of cell membrane",
+        "c": "Size of neuron",
+        "d": "Diameter of neuronal soma"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+  
+
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Which of the following is not a type of patch clamp technique ? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cell-attached patch",
+        "b": "Inside-out patch",
+        "c": "Outside-out patch",
+        "d": "Loose patch"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "3. Who discovered Patch clamp technique with Bert Sachmann ? ",
+      "answers": {
+        "a": "Arnauld Neher",
+        "b": "Erwin Neher",
+        "c": "Bert Neher",
+        "d": "Arnold Schwazznegger"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "4. What are the uses of patch clamp ? ",
+      "answers": {
+        "a": "Possible to record the currents of single ion channels",
+        "b": "Possible to record multiple ion channels",
+        "c": "Electronically isolate the currents measured across the membrane patch",
+        "d": "All the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. What is a patch ? ",
+      "answers": {
+        "a": "A small piece of miroelectrode",
+        "b": "Membrane surface area enclosed by the cells that can contain few ion channels",
+        "c": "Suction with high-resistance forming gigohm seal",
+        "d": "Recordable currents"
+      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+
+
   ]
 }
