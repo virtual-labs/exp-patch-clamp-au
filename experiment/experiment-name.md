@@ -1,1 +1,1 @@
-## Experiment name
+## Patch Clamp Technique 
