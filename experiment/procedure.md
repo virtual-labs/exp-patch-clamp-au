@@ -18,6 +18,8 @@ The experiment explains the role of Na+ channel in action potential initiation a
 
 
  Understanding parameters in the simulator window.
+
+
 <img src="images/2.jpg" title="" />
 
 Cm  = Membrane Capacitance (nF)
@@ -71,6 +73,8 @@ User can set varying values as input parameters.
  &nbsp;
  
  Click on run button to execute simulator.
+
+
  <img src="images/7.jpg" title="" />
 
  &nbsp;
@@ -82,6 +86,7 @@ User can set varying values as input parameters.
 
 
  For example, apply the value of TEA as 45% and TTX as 17%
+ 
 <img src="images/8.jpg" title="" />
 
  &nbsp;
