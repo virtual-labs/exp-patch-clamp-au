@@ -12,14 +12,13 @@ The experiment explains the role of Na+ channel in action potential initiation a
 1.	Initially, select the current clamp mode in the experiment.
  
 
-<center><img src="images/1.jpg" title="" /></center>
+<img src="images/1.jpg" title="" />
 
  &nbsp;
 
 
  Understanding parameters in the simulator window.
-<center><img src="images/2.jpg" title="" /></center>
-
+<img src="images/2.jpg" title="" />
 
 Cm  = Membrane Capacitance (nF)
 
@@ -34,7 +33,7 @@ F= Frequency
 
 &nbsp;
 
-<center><img src="images/3.jpg" title="" /></center>
+<img src="images/3.jpg" title="" />
 
  gNa = Conductance of Sodium ions
 
@@ -44,7 +43,7 @@ gCl= Conductance of Chloride ions
 
 &nbsp;
 
-<center><img src="images/4.jpg" title="" /></center>
+<img src="images/4.jpg" title="" />
 
 
  Membrane window provides accesses to internal and external ionic concentration (Sodium, chloride and potassium) and membrane properties.
@@ -52,7 +51,7 @@ gCl= Conductance of Chloride ions
  &nbsp;
 
  &nbsp;
-<center><img src="images/5.jpg" title="" /></center>
+<img src="images/5.jpg" title="" />
 
 
  Drug window helps to study the pharmacological effect in neuronal membrane by the application of three drugs TTX (Inhibit Na current), TEA (Inhibit K current), Pronase (eliminate Na+ inactivation).Drugs can be applied at any point of time. 
@@ -62,9 +61,7 @@ gCl= Conductance of Chloride ions
 
 User can set varying values as input parameters. 
 
-
-<center><img src="images/6.jpg" title="" /></center>
-
+<img src="images/6.jpg" title="" />
  &nbsp;
 
  T1 = Time (T1 start, suppose 10 s and T2 stop 20s). The simulator will read the output from 10s to 20s. Likewise T2 Start and T2 Stop can be given according to users choice. V1 and V2 indicates applied voltage at the specified time duration. 
@@ -74,7 +71,7 @@ User can set varying values as input parameters.
  &nbsp;
  
  Click on run button to execute simulator.
- <center><img src="images/7.jpg" title="" /></center>
+ <img src="images/7.jpg" title="" />
 
  &nbsp;
 
@@ -82,10 +79,10 @@ User can set varying values as input parameters.
 
  
  &nbsp;
- 
+
 
  For example, apply the value of TEA as 45% and TTX as 17%
-  <center><img src="images/8.jpg" title="" /></center>
+<img src="images/8.jpg" title="" />
 
  &nbsp;
 
