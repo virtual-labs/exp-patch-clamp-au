@@ -8,7 +8,6 @@ For more info on patch clamp technique one may read books, visit labs or check f
 2. Areles Molleman, Patch Clamping: An introductory Guide to Patch clamp electrophysiology. Wiley, 2003.
 
  
- 
 **Journals:**
 
  
